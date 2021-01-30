@@ -1,0 +1,6 @@
+---
+  -name: first one role
+  hosts: all
+  become: true
+  roles:
+    - frole
