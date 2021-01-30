@@ -1,5 +1,5 @@
 ---
-  -name: first one role
+  -name: first role
   hosts: all
   become: true
   roles:
