@@ -1,4 +1,0 @@
-server1 ansible_host=ec2-3-141-36-81.us-east-2.compute.amazonaws.com ansible_port=22 ansible_user=ubuntu ansible_ssh_private_key_file=~/AWS_SSH_KEYS/nhlstudy.pem
-
-[backend]
-server1
